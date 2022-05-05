@@ -3,16 +3,28 @@ O Bootcamp TQI Fullstack Developer é um programa gratuito para formação em de
 
 # Sumário
 
- - [Módulo I — HTML & CSS](#HTML_&_CSS)
- - [Módulo II — JavaScript](#JavaScript)
+ - [Módulo I — HTML & CSS](#html__css)
+ - [Módulo II — JavaScript](#javascript)
 
- # HTML_&_CSS
- ### Projeto Final
-![Homepage]()
+# HTML & CSS
+### Transitions
+![Transition](https://github.com/PauloV-Rodrigues/Bootcamp-TQI-Fullstack-Developer/blob/main/HTML%20e%20CSS/Transitions/Aula-01/img/transition1.gif)
+![Transition](https://github.com/PauloV-Rodrigues/Bootcamp-TQI-Fullstack-Developer/blob/main/HTML%20e%20CSS/Transitions/Aula-02/img/transition2.gif)
+ 
+### Keyframes
+![Keyframe](https://github.com/PauloV-Rodrigues/Bootcamp-TQI-Fullstack-Developer/blob/main/HTML%20e%20CSS/Keyframes/Aula-01/img/keyframe1.gif)
+![Keyframe](https://github.com/PauloV-Rodrigues/Bootcamp-TQI-Fullstack-Developer/blob/main/HTML%20e%20CSS/Keyframes/Aula-02/img/keyframe2.gif)
 
- # JavaScript
+### Projeto Final
+![Final Project](https://github.com/PauloV-Rodrigues/Bootcamp-TQI-Fullstack-Developer/blob/main/HTML%20e%20CSS/Final-Project/img/final-project.gif)
+
+# JavaScript
 ### Contador
 ![Counter](https://github.com/PauloV-Rodrigues/Bootcamp-TQI-Fullstack-Developer/blob/main/JavaScript/Contador/assets/img/counter.gif)
+
+### To-Do List
+![Counter](https://github.com/PauloV-Rodrigues/Bootcamp-TQI-Fullstack-Developer/blob/main/JavaScript/To-Do-List/assets/img/to-do-list.gif)
+
 
 # Contato
 [Linkedin](https://www.linkedin.com/in/ro-paulo/) | [Instagram](https://www.instagram.com/_paulo.86)
