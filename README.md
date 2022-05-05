@@ -11,8 +11,8 @@ O Bootcamp TQI Fullstack Developer é um programa gratuito para formação em de
 ![Homepage]()
 
  # JavaScript
-### Projeto Final
-![Homepage]()
+### Contador
+![Counter](https://github.com/PauloV-Rodrigues/Bootcamp-TQI-Fullstack-Developer/blob/main/JavaScript/Contador/assets/img/counter.gif)
 
 # Contato
 [Linkedin](https://www.linkedin.com/in/ro-paulo/) | [Instagram](https://www.instagram.com/_paulo.86)
