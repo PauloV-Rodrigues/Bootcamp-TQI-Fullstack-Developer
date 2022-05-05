@@ -1,0 +1,22 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(177, 225, 255);
+}
+
+#counter {
+    display: flex;
+}
+
+#currentNumber{
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+    font-size: 16pt;
+}
